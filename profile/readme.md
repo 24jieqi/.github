@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, 我们是 24jieqi</h1>
 <h3 align="center">这里是24节气前端团队的主页</h3>
 
-- 🔭 I’m currently working on [HJGP](https://techblog.hjgpscm.com)
+- 团队介绍 [HJGP](https://techblog.hjgpscm.com)
+- 小暑ReactNative基础组件 [xiaoshu](https://24jieqi.github.io/react-native-xiaoshu/)
+- 秋分 GraphQL 调试利器 [qiufen](https://techblog.hjgpscm.com/qiufen/)
+- 白露antd业务组件 [bailu](https://hjfruit.github.io/bailu-doc/0.2.x)
+- 寒露antd mobile业务组件 [hanlu](https://hjfruit.github.io/hanlu-doc/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
