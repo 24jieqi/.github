@@ -3,7 +3,8 @@
 
 - 🏆 [团队介绍 HJGP](https://techblog.hjgpscm.com)
 - 🌈 [小暑](https://24jieqi.github.io/react-native-xiaoshu) React Native 基础组件
-- 🔨 [秋分](https://techblog.hjgpscm.com/qiufen/) GraphQL 调试利器 
+- 🔨 [秋分](https://techblog.hjgpscm.com/qiufen/) GraphQL 调试利器
+- 👾 [立冬](https://github.com/24jieqi/react-native-lidong-template) React Native 初始化项目模板
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
