@@ -9,7 +9,6 @@
 - 🔨 [秋分](https://techblog.hjgpscm.com/qiufen/) GraphQL 调试利器
 - ⛄ [立冬](https://github.com/24jieqi/react-native-lidong-template) React Native 初始化项目模板
 - 🍂 [处暑](https://github.com/24jieqi/chushu) 前端埋点解决方案
-<!-- - 🦢 [白露](https://hjfruit.github.io/bailu-doc/0.2.x/) React UI library based on Antd Design -->
 - 🍉 [夏至](https://github.com/24jieqi/xiazhi) 多语言词库平台
 - 📢 [腊八](https://github.com/24jieqi/hooks-laba) React 一些常用的 hook 集合
 - 🎨 [图标库](https://hjfruit.github.io/icon-doc/) SVG Icons.
