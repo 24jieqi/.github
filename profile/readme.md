@@ -1,7 +1,7 @@
 <h1 align="center">我们是 24 jieqi团队</h1>
 
 <h5>团队介绍</h5>
-<p>Hi 👋, 我们是 24 jieqi 团队<a href="https://techblog.hjgpscm.com"> 👉🏻 团队介绍</a></p>
+<p>Hi 👋, 我们是 24 jieqi 团队<a href="https://24jieqi.github.io"> 👉🏻 团队介绍</a></p>
 
 <h5>我们做了些什么</h5>
 
